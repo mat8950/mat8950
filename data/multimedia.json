@@ -1,7 +1,0 @@
-{
-    "title": "Multimédia",
-    "apps": [
-        { "name": "VLC", "description": "Lecteur multimédia" },
-        { "name": "GIMP", "description": "Éditeur d'images" }
-    ]
-}
